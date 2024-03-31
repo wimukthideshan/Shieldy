@@ -1,0 +1,252 @@
+[33mcommit 350301abdd7a31434aaa7c917e38557cf9bda6bd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mUI[m[33m, [m[1;31morigin/UI[m[33m)[m
+Author: kethaka <hirunkethaka@gmail.com>
+Date:   Mon Mar 18 14:18:04 2024 +0530
+
+    error fixed that siging out when the app clode
+
+[33mcommit d08ab42cf442ae09a6e2cd05a7c1379044df2df0[m
+Merge: 97154e0 6416708
+Author: kethaka <hirunkethaka@gmail.com>
+Date:   Thu Mar 14 16:38:52 2024 +0530
+
+    add the location
+
+[33mcommit 97154e06562d7a4f54449218217e0e782aa1d41e[m
+Merge: 412bede 8406b64
+Author: kethaka <hirunkethaka@gmail.com>
+Date:   Thu Mar 14 16:04:02 2024 +0530
+
+    add the location api
+
+[33mcommit 64167084e6cd100367d91d64c932601b1780833b[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Thu Mar 14 15:59:07 2024 +0530
+
+    commit before sending to Kethaka
+
+[33mcommit b2198275eb0af97a3b117071af315b706465a327[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Thu Mar 14 14:50:19 2024 +0530
+
+    commit before changing the user sign out method
+
+[33mcommit 412bede14c397263bc7cb24d00fea958147946ee[m
+Author: kethaka <hirunkethaka@gmail.com>
+Date:   Thu Mar 14 13:32:24 2024 +0530
+
+    mmodified
+
+[33mcommit d8b5138f048921c8df10d52715224a806e4367c8[m
+Merge: b1ecd37 9e9402c
+Author: kethaka <hirunkethaka@gmail.com>
+Date:   Thu Mar 14 13:29:35 2024 +0530
+
+    modified
+
+[33mcommit 8406b64bb17749366eabc1af6e7db6630421c9fa[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Thu Mar 14 13:27:14 2024 +0530
+
+    changed the login and sign up UI&UX
+
+[33mcommit d3888fd10aced9398e61700544232b848baefc3a[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Thu Mar 14 11:35:44 2024 +0530
+
+    fixed my errors after kavindus version
+
+[33mcommit d2b9006ae7119791cda458a4d0a3dfb8c2439bfa[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Thu Mar 14 11:10:33 2024 +0530
+
+    before pulling
+
+[33mcommit 65dbdab216f3eaed72d548b2f0527ab6ae76c8ff[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Thu Mar 14 01:14:07 2024 +0530
+
+    commit before pulling
+
+[33mcommit 5ec8d771e7c98077b85a743c449fbb4b19f79bf4[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Thu Mar 14 01:12:03 2024 +0530
+
+    Revert "modifid the text fields in edit account"
+    
+    This reverts commit 4a6bede019b2902005925ee3e7ab86bfecf94cf0, reversing
+    changes made to fe5219dba891e3ca983150cbe6318d9c06f811c7.
+
+[33mcommit 8fff89c70b29dfbb9a66f611bf06afacfed3eb4a[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Thu Mar 14 01:06:38 2024 +0530
+
+    still trying
+
+[33mcommit db65d0735c295042162df06ffa1ce4762bfd9cc7[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Thu Mar 14 01:05:17 2024 +0530
+
+    Revert "created the camrea function phase 1 // completed"
+    
+    This reverts commit f37f18c592a0368264497fd61d6f6ee4340cc191, reversing
+    changes made to b24a5c74d0dce745942afa1bdc7133477df2c0ef.
+
+[33mcommit 3ad6d8e9e702ed4d163a4aa3f916378bd5a2eb10[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Thu Mar 14 00:56:08 2024 +0530
+
+    trying to fix errors
+
+[33mcommit abed8634be9b9b6e1f710252785b8383822c9aa3[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Thu Mar 14 00:50:14 2024 +0530
+
+    commit before reverting
+
+[33mcommit b687d2e2d9a80f348943249ef05a81e4da7290b5[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Thu Mar 14 00:45:13 2024 +0530
+
+    Revert "created the camrea function phase 1 // completed"
+    
+    This reverts commit f37f18c592a0368264497fd61d6f6ee4340cc191, reversing
+    changes made to b24a5c74d0dce745942afa1bdc7133477df2c0ef.
+
+[33mcommit 4b468eb0cf3d6ed7fa81fd919ce08d29fd360d0a[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Wed Mar 13 23:45:36 2024 +0530
+
+    commit before reverting to the 9e9402c
+
+[33mcommit 587769969193c93d4b5efcbda854f1815f33ba93[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Wed Mar 13 23:33:35 2024 +0530
+
+    go back to the previous version of 13th march 1807
+
+[33mcommit 209a20ec6f215cb58286c4cd376d3b547f6c29e7[m
+Merge: 05f6edd 77bbbfc
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Wed Mar 13 18:56:13 2024 +0530
+
+    Merge branch 'UI' of https://github.com/Ranuli-w/Sheildy into UI
+
+[33mcommit 05f6edd29cd8799597ea95e55bf214b44099d30d[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Wed Mar 13 18:55:56 2024 +0530
+
+    commit before pulling
+
+[33mcommit 77bbbfcd8dfae2a09baaf13092eb647ac251d85b[m
+Author: Kavindu Palihakkara <148669416+Kavindu809git@users.noreply.github.com>
+Date:   Wed Mar 13 18:50:07 2024 +0530
+
+    add post method with errors // phase 2
+
+[33mcommit 9bdf53798bfed9ad80e4537bc31bf6c2f2055ee5[m
+Merge: 3993ac2 9e9402c
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Wed Mar 13 18:07:34 2024 +0530
+
+    Merge branch 'UI' of https://github.com/Ranuli-w/Sheildy into UI
+
+[33mcommit 3993ac2d26caa6f70c1363fbd0d04dd43f5a15ef[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Wed Mar 13 18:07:17 2024 +0530
+
+    commit before pulling
+
+[33mcommit 9e9402c515b4ad4c4751696945d5f0bf4ecfc05e[m
+Merge: f37f18c 4a6bede
+Author: Kavindu Palihakkara <148669416+Kavindu809git@users.noreply.github.com>
+Date:   Wed Mar 13 13:37:14 2024 +0530
+
+    Merge branch 'UI' of https://github.com/Ranuli-w/Sheildy into UI
+
+[33mcommit b1ecd375a295d0623210bb4e185333d327fd9495[m
+Merge: a65d051 4a6bede
+Author: kethaka <hirunkethaka@gmail.com>
+Date:   Wed Mar 13 13:30:15 2024 +0530
+
+    Merge branch 'UI' of github.com:Ranuli-w/Sheildy into UI
+
+[33mcommit a65d0512677f3c497b9847e9f2d3d50165b52ae8[m
+Merge: a9d3a29 04c4238
+Author: kethaka <hirunkethaka@gmail.com>
+Date:   Wed Mar 13 13:29:47 2024 +0530
+
+    link the pages
+
+[33mcommit f37f18c592a0368264497fd61d6f6ee4340cc191[m
+Merge: b24a5c7 04c4238
+Author: Kavindu Palihakkara <148669416+Kavindu809git@users.noreply.github.com>
+Date:   Wed Mar 13 13:18:10 2024 +0530
+
+    created the camrea function phase 1 // completed
+
+[33mcommit f1ae8fb8a24bd833cae9a9559baaff20c2b2f27d[m
+Merge: e2a7f31 4a6bede
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Wed Mar 13 12:32:47 2024 +0530
+
+    Merge branch 'UI' of https://github.com/Ranuli-w/Sheildy into UI
+
+[33mcommit e2a7f31c6e7c2a2fb7d311a5b10cda04bc9fe57e[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Wed Mar 13 12:32:37 2024 +0530
+
+    commited before pulling
+
+[33mcommit 4a6bede019b2902005925ee3e7ab86bfecf94cf0[m
+Merge: fe5219d 04c4238
+Author: Nuwin Tharana <134575245+NUWIN5@users.noreply.github.com>
+Date:   Wed Mar 13 12:31:14 2024 +0530
+
+    modifid the text fields in edit account
+
+[33mcommit fe5219dba891e3ca983150cbe6318d9c06f811c7[m
+Author: Nuwin Tharana <134575245+NUWIN5@users.noreply.github.com>
+Date:   Wed Mar 13 12:21:03 2024 +0530
+
+    modified the update profile photo
+
+[33mcommit b24a5c74d0dce745942afa1bdc7133477df2c0ef[m
+Author: Kavindu Palihakkara <148669416+Kavindu809git@users.noreply.github.com>
+Date:   Wed Mar 13 11:52:18 2024 +0530
+
+    Add post UI updated version with errors
+
+[33mcommit a9d3a292b7b830eacf912a834ccf2819d504786e[m
+Author: kethaka <hirunkethaka@gmail.com>
+Date:   Wed Mar 13 11:51:41 2024 +0530
+
+    make some chnges
+
+[33mcommit 04c4238b677fb6a2fef20e099371f2bfb35841d6[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Wed Mar 13 11:47:41 2024 +0530
+
+    updated the sign in feature to save the extra user details in the firestore
+
+[33mcommit 6fffdb74af42c4a236f79d7f709988ea0c91926d[m
+Merge: 875b3cc 8390983
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Tue Mar 12 07:02:59 2024 +0530
+
+    Merge branch 'UI' of https://github.com/Ranuli-w/Sheildy into UI
+
+[33mcommit 875b3ccde8f5813bbe118bb72d65c4923e15ffb9[m
+Author: wimukthideshan <wimukthideshan@gmail.com>
+Date:   Tue Mar 12 07:00:53 2024 +0530
+
+    Committing local changes before merging UI branch
+
+[33mcommit 83909830f8988bd6236be2f21b99fab6e2b3fe14[m
+Author: Nuwin Tharana <134575245+NUWIN5@users.noreply.github.com>
+Date:   Mon Mar 11 15:49:00 2024 +0530
+
+    modified the edit screen layout
+
+[33mcommit 4f9c240261293f39364e8627cb054e707808c909[m
+Merge: 5dcb7ba af62237
+Author: Nuwin Tharana <134575245+NUWIN5@

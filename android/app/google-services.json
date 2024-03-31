@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974630074811",
+    "project_id": "shieldy-6e7a5",
+    "storage_bucket": "shieldy-6e7a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974630074811:android:a80017f99b6915d3f1ec9e",
+        "android_client_info": {
+          "package_name": "com.example.shieldy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb2lej30EyZzLB8FIIWE6ZvrO9auCV6d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

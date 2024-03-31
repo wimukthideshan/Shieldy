@@ -1,0 +1,213 @@
+[
+    {"station": "Ahangama - Police Station", "phone": "0912283222"},
+  {"station": "Ahungalla - Police Station", "phone": "0912264026"},
+  {"station": "Aiththamalai - Police Station", "phone": "0653647513"},
+  {"station": "Akkaraipattu - Police Station", "phone": "0672277222"},
+  {"station": "Akkarayankulam - Police Station", "phone": "0113081016"},
+  {"station": "Akuressa - Police Station", "phone": "0412283222"},
+  {"station": "Alawathugoda - Police Station", "phone": "0662244322"},
+  {"station": "Alawwa - Police Station", "phone": "0372278122"},
+  {"station": "Athurugiriya - Police Station", "phone": "0112561222"},
+  {"station": "Achchuweli - Police Station", "phone": "0212058585"},
+  {"station": "Agalawaththa - Police Station", "phone": "0342248855"},
+  {"station": "Agarapathana - Police Station", "phone": "0512230222"},
+  {"station": "Agbopura - Police Station", "phone": "0262244111"},
+  {"station": "Akmeemana - Police Station", "phone": "0912234223"},
+  {"station": "Bambalapitiya - Police Station", "phone": "0112588680"},
+  {"station": "BMICH - Police Station", "phone": "0112691132"},
+  {"station": "Borella - Police Station", "phone": "0112693938"},
+  {"station": "Boralesgamuwa - Police Station", "phone": "0112509461"},
+  {"station": "Colombo Harbour - Police Station", "phone": "0112320980"},
+  {"station": "Dematagoda - Police Station", "phone": "0112693838"},
+  {"station": "Dehiwala - Police Station", "phone": "0112738222"},
+  {"station": "Dompe - Police Station", "phone": "0112409222"},
+  {"station": "Kaduwela - Police Station", "phone": "0112159224"},
+  {"station": "Kahathuduwa - Police Station", "phone": "0112705233"},
+  {"station": "Kesbewa - Police Station", "phone": "0112603742"},
+  {"station": "Kiribathgoda - Police Station", "phone": "0112914985"},
+  {"station": "Kollupitiya - Police Station", "phone": "0112323689"},
+  {"station": "Kotahena - Police Station", "phone": "0112431861"},
+  {"station": "Kohuwala - Police Station", "phone": "0112852621"},
+  {"station": "Malabe - Police Station", "phone": "0112571102"},
+  {"station": "Maligawatta - Police Station", "phone": "0112434135"},
+  {"station": "Maradana - Police Station", "phone": "0112692748"},
+  {"station": "Mirihana - Police Station", "phone": "0112828566"},
+  {"station": "Moratuwa - Police Station", "phone": "0112645222"},
+  {"station": "Mount Lavinia - Police Station", "phone": "0112738351"},
+  {"station": "Narahenpita - Police Station", "phone": "0112368242"},
+  {"station": "Nawagamuwa - Police Station", "phone": "0112415222"},
+  {"station": "Panadura North - Police Station", "phone": "0382233204"},
+  {"station": "Pettah - Police Station", "phone": "0112421515"},
+  {"station": "Piliyandala - Police Station", "phone": "0112614222"},
+  {"station": "Sapugaskanda - Police Station", "phone": "0112400315"},
+  {"station": "Slave Island - Police Station", "phone": "0112433829"},
+  {"station": "Thalangama - Police Station", "phone": "0112788079"},
+  {"station": "Wellampitiya - Police Station", "phone": "0112572222"},
+  {"station": "Wellawatta - Police Station", "phone": "0112588212"},
+  {"station": "Welikada - Police Station", "phone": "0112862522"},
+  {"station": "Wolfendhal - Police Station", "phone": "0112323356"},
+  {"station": "Awissawella - Police Station", "phone": "0362222222"},
+  {"station": "Mulleriyava - Police Station", "phone": "0112578279"},
+  {"station": "Kosgama - Police Station", "phone": "0362255022"},
+  {"station": "Padukka - Police Station", "phone": "0112859027"},
+  {"station": "Hanwella - Police Station", "phone": "0362255222"},
+  {"station": "Mattegoda - Police Station", "phone": "0112783776"},
+  {"station": "Cinnamon Garden - Police Station", "phone": "0112695411"},
+  {"station": "Dam Street - Police Station", "phone": "0112432612"},
+  {"station": "Pettah - Police Station", "phone": "0112421515"},
+  {"station": "Fort - Police Station", "phone": "0112433744"},
+  {"station": "Fore shore - Police Station", "phone": "0112434595"},
+  {"station": "Grandpass - Police Station", "phone": "0112421414"},
+  {"station": "Kotahena - Police Station", "phone": "0112431861"},
+  {"station": "Bluemandal - Police Station", "phone": "0112522733"},
+  {"station": "Gothatuwa - Police Station", "phone": "0112411146"},
+  {"station": "Angulana - Police Station", "phone": "0112626357"},
+  {"station": "Pugoda - Police Station", "phone": "0112405224"},
+  {"station": "Meepe - Police Station", "phone": "0112175450"},
+  {"station":"Angoda Fever Hospital - Hospital(Gov)","phone":" 0112411284"},
+  {"station": "General info", "phone": "rda@edu.min.spgov.lk"},
+  {"station": "Deputy General Manager (Road & Bridges)","phone": "091-2226440"},
+  {"station": "Deputy General Manager (Admin)","phone": "091-2224125"},
+  {
+    "name": "National Hospital of Sri Lanka",
+    "phone": "0112 691 111"
+  },
+  {
+    "name": "Lanka Hospitals",
+    "phone": "0115 430 000"
+  },
+  {
+    "name": "Kings Hospital Colombo",
+    "phone": "0117 743 743"
+  },
+  {
+    "name": "Nawaloka Hospital Specialist Centre",
+    "phone": "0115 577 111",
+    "location": "78 Colombo - Batticaloa Hwy"
+  },
+  {
+    "name": "Castle Street Hospital for Women",
+    "phone": "0112 696 231",
+    "location": "Castle St"
+  },
+  {
+    "name": "Western Hospital",
+    "phone": "0117 392 260",
+    "location": "218 Dr NM Perera Mawatha Rd"
+  },
+  {
+    "name": "National Hospital",
+    "phone": "0112 691 111",
+    "location": "WVC9+7Q6, Kynsey Rd"
+  },
+  {
+    "name": "Royal Hospital",
+    "phone": "0114 000 100",
+    "location": "No 62 W.A. Silva Mawatha"
+  },
+  {
+    "name": "Ratnam Hospital",
+    "phone": "0112 327 780",
+    "location": "WVC4+CVC, Dr Colvin R de Silva Mawatha"
+  },
+  {
+    "name": "Joseph Fraser Memorial Hospital",
+    "phone": "0112 049 999",
+    "location": "23 Joseph Fraser Rd, Off Keppetipola Rd"
+  },
+  {
+    "name": "Park Hospitals",
+    "phone": "0112 590 200",
+    "location": "186 Park Rd"
+  },
+  {
+    "name": "Durdans Hospital",
+    "phone": "0112 140 000",
+    "location": "3 Alfred Pl"
+  },
+  {
+    "name": "Ayush Hospital Colombo",
+    "phone": "0112 525 000",
+    "location": "562 A Aluthmawatha Rd"
+  },
+  {
+    "name": "Health Scan Private Hospital",
+    "phone": "0114 616 666",
+    "location": "95 Castle St"
+  },
+  {
+    "name": "Ninewells Hospital (Pvt) Ltd.",
+    "phone": "0114 520 999",
+    "location": "55 /1 Kirimandala Mawatha"
+  },
+  {
+    "name": "Colombo South Teaching Hospital - Kalubowila",
+    "phone": "0112 832 950",
+    "location": "Dehiwala-Mount Lavinia"
+  },
+  {
+    "name": "Asiri Central Hospital - Central Hospital Limited",
+    "phone": "0114 665 500",
+    "location": "114 Norris Canal Rd"
+  },
+  {
+    "name": "Accident Ward",
+    "phone": "0112 691 111",
+    "location": "Accident Ward, EW Perera Mawatha"
+  },
+  {
+    "name": "Colombo South Teaching Hospital (Kalubowila)",
+    "phone": "0112 832 950",
+    "location": "Dehiwala-Mount Lavinia"
+  },
+  {
+    "name": "De Soysa Hospital for Women",
+    "phone": "0112 662 619",
+    "location": "WV9C+X6V, Kynsey Rd"
+  },
+  {
+    "name": "CMC Fire Service Department",
+    "phone": "0112 422 222",
+    "location": "WVF6+7WW, T. B. Jayah Mawatha"
+  },
+  {
+    "name": "Fire Service Department CMC Kotahena Substation - 01",
+    "phone": "0112 430 348",
+    "location": "George R. De Silva Mawatha"
+  },
+  {
+    "name": "Port Fire Brigade",
+    "phone": "0112 432 332",
+    "location": "XV35+63V, Colombo Port Main Rd"
+  },
+  {
+    "name": "Colombo Fire Station",
+    "location": "WVXC+7F9, Prince of Wales Ave"
+  },
+  {
+    "name": "Grandpass Fire Station",
+    "phone": "0112 431 353",
+    "location": "WVXC+7FQ"
+  },
+  {
+    "name": "Fire Department - Kotte",
+    "phone": "0112 879 444",
+    "location": "Sri Jayawardenepura Kotte"
+  },
+  {
+    "name": "Fire Brigade and Department",
+    "phone": "0112 714 444",
+    "location": "Dehiwala-Mount Lavinia"
+  },
+  {
+    "name": "Fire & Rescue Training Academy",
+    "phone": "0112 364 040",
+    "location": "Colombo"
+  },
+  {
+    "name": "Fire Service Department CMC Gaspaha Sub Station - 04",
+    "phone": "0112 422 222",
+    "location": "WVQ3+HJ3, Main St"
+  }
+ ]
+      
